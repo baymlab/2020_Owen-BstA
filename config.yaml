@@ -1,0 +1,7 @@
+params:
+ neightborhood: 10
+ download_fmt: fasta
+
+input_file: 'test.tsv'
+
+output_dir: 'data/test/'
