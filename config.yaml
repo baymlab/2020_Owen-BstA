@@ -1,7 +1,5 @@
+input_file: 'data/bsta_homologs/bsta_homologs.tsv'
+output_dir: 'data/bsta_homologs/fasta'
 params:
- neightborhood: 10
- download_fmt: fasta
-
-input_file: 'test.tsv'
-
-output_dir: 'data/test/'
+ neighborhood: 20000
+ download_fmt: 'fasta'
