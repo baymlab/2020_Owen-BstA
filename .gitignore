@@ -1,7 +1,11 @@
-# Byte-compiled / optimized / DLL files
+i# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# other
+.DS_Store
+.snakemake/
 
 # C extensions
 *.so
