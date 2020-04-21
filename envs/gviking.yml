@@ -36,7 +36,7 @@ dependencies:
   - libcxxabi=4.0.1=hcfea43d_1
   - libdb=6.1.26=0
   - libedit=3.1.20181209=hb402a30_0
-  - libffi=3.2.1=h475c297_4
+  - libffi=3.2.1=1
   - libgcc=4.8.5=hdbeacc1_10
   - libgd=2.2.5=h9bbc9bf_3
   - libgfortran=3.0.1=h93005f0_2
