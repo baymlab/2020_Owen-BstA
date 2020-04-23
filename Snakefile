@@ -3,7 +3,7 @@ import sys
 import pandas as pd
 from scripts import geneviking as gv
 
-configfile: 'config.yaml'
+# configfile: 'config.yaml'
 
 # read dataframe
 df = pd.read_table(config['input_file']).set_index("acc",

@@ -1,0 +1,5 @@
+input_file: 'data/bsta_homologs_20200423/bsta_homologs_20200423.tsv'
+output_dir: 'data/bsta_homologs_20200423'
+params:
+ neighborhood: 20000
+ download_fmt: 'fasta'
