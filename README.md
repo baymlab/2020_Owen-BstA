@@ -11,8 +11,8 @@ Code corresponing to the paper [Prophage-encoded abortive infection proteins tha
 - [Raw annotation results]() <!--TO_DO: Zenodo?-->
 - Processed results
   - [Figure 2.A: Annotation counts]() <!--TO_DO: annot tables and counts-->
-  - [Figure 2.B: Annotation of genomic neighborhoods]() <!--point at prokka+viking gb-->
-  - [Figure 2.C: BstA homologs alignment]() <!--point at alignment file -->
+  - [Figure 2.B: Annotation of genomic neighborhoods](https://github.com/baymlab/2020_Owen-BstA/tree/master/data/results/2B)
+  - [Figure 2.C: BstA homologs alignment](https://github.com/baymlab/2020_Owen-BstA/tree/master/data/results/2C)
 
 ## Code
 - [`Snakefile`](https://github.com/baymlab/2020_Owen-BstA/blob/master/Snakefile): A Snakemake pipeline which does the core genomic neighborhood analysis. It consists of downloading a specified sequence region from NCBI, annotating the region with `Prokka`, running `hmmscan`, and updating the annotations with BstA and `Pfam` hits. This produces the [raw annotation results](). A [selection]() of these results was processed to create *Figure 2.B*.
