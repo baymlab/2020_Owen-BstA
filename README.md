@@ -4,7 +4,7 @@
 Code corresponing to the paper [Prophage-encoded abortive infection proteins that encode cognate self-immunity]()
 
 ## Data
-- [BstA homologs](https://github.com/baymlab/2020_Owen-BstA/tree/master/data/BstAhomologs)
+- BstA homologs
   - [Sequences](https://github.com/baymlab/2020_Owen-BstA/blob/master/data/BstAhomologs/bsta_homologs.faa)
   - [Homologs metadata](https://github.com/baymlab/2020_Owen-BstA/blob/master/data/BstAhomologs/bsta_homologs.tsv) <!--TO_DO-->
   - [BstA profile-hmm](https://github.com/baymlab/2020_Owen-BstA/blob/master/data/BstAhomologs/bsta.hmm)
