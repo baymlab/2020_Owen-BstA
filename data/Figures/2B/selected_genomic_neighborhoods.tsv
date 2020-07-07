@@ -1,13 +1,13 @@
 genome	region_from	region_to	association	aa_identity	genbank_file
-FN424405	377825	378748	prophage-associated	100	data/results/2B/gbk/FN424405_377825-378748.gbk
-FO834906	1513232	1514125	prophage-associated	48.4	data/results/2B/gbk/FO834906_1513232-1514125.gbk
-NZ_CAADJH010000002.1	1520985	1521881	prophage-associated	41.7	data/results/2B/gbk/NZ_CAADJH010000002.1_1520985-1521881.gbk
-LS483392	1329713	1330618	prophage-associated	38.6	data/results/2B/gbk/LS483392_1329713-1330618.gbk
-CP015876	3673556	3674386	prophage-associated	35.2	data/results/2B/gbk/CP015876_3673556-3674386.gbk
-CP021342	30240	31106	prophage-associated	43.2	data/results/2B/gbk/CP021342_30240-31106.gbk
-AP018786	988832	989662	putatively prophage-independent	24.2	data/results/2B/gbk/AP018786_988832-989662.gbk
-LT707061	2457781	2458623	putatively prophage-independent	48.1	data/results/2B/gbk/LT707061_2457781-2458623.gbk
-CP021894	1977122	1977979	putatively prophage-independent	33.2	data/results/2B/gbk/CP021894_1977122-1977979.gbk
-CP035694	1489338	1490186	putatively prophage-independent	42.9	data/results/2B/gbk/CP035694_1489338-1490186.gbk
-CP019628	3690609	3691427	putatively prophage-independent	31.3	data/results/2B/gbk/CP019628_3690609-3691427.gbk
-CP016484	1418	2182	putatively prophage-independent	20.1	data/results/2B/gbk/CP016484_1418-2182.gbk
+FN424405	377825	378748	prophage-associated	100	data/Figures/2B/gbk/FN424405_377825-378748.gbk
+FO834906	1513232	1514125	prophage-associated	48.4	data/Figures/2B/gbk/FO834906_1513232-1514125.gbk
+NZ_CAADJH010000002.1	1520985	1521881	prophage-associated	41.7	data/Figures/2B/gbk/NZ_CAADJH010000002.1_1520985-1521881.gbk
+LS483392	1329713	1330618	prophage-associated	38.6	data/Figures/2B/gbk/LS483392_1329713-1330618.gbk
+CP015876	3673556	3674386	prophage-associated	35.2	data/Figures/2B/gbk/CP015876_3673556-3674386.gbk
+CP021342	30240	31106	prophage-associated	43.2	data/Figures/2B/gbk/CP021342_30240-31106.gbk
+AP018786	988832	989662	putatively prophage-independent	24.2	data/Figures/2B/gbk/AP018786_988832-989662.gbk
+LT707061	2457781	2458623	putatively prophage-independent	48.1	data/Figures/2B/gbk/LT707061_2457781-2458623.gbk
+CP021894	1977122	1977979	putatively prophage-independent	33.2	data/Figures/2B/gbk/CP021894_1977122-1977979.gbk
+CP035694	1489338	1490186	putatively prophage-independent	42.9	data/Figures/2B/gbk/CP035694_1489338-1490186.gbk
+CP019628	3690609	3691427	putatively prophage-independent	31.3	data/Figures/2B/gbk/CP019628_3690609-3691427.gbk
+CP016484	1418	2182	putatively prophage-independent	20.1	data/Figures/2B/gbk/CP016484_1418-2182.gbk
