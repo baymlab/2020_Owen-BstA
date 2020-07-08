@@ -1,0 +1,77 @@
+genome_accession	coord_hit_start	coord_hit_end	protein_accession	strain
+FN424405.1	378748	377825	CBG23363.1	Salmonella enterica subsp. enterica serovar Typhimurium str. D23580 
+CP019179.1	3449220	3450143	APV80176.1	Salmonella enterica subsp. enterica serovar Dublin str. ATCC 39184
+LR134156.1	1474012	1473092	VEA75917.1	Salmonella enterica subsp. arizonae strain NCTC10047
+CP019404.1	1293205	1292282	APY36221.1	Salmonella enterica subsp. enterica serovar Bardo strain SA20113257
+CP025246.1	3435235	3436158	QAZ34747.1	Salmonella enterica subsp. enterica serovar Newport str. CDC 2012K-0938
+LS483474.1	2960975	2961898	SQI65214.1	Salmonella enterica subsp. diarizonae strain NCTC10381
+CP043664.1	1528793	1528793	QGK96495.1	Salmonella enterica subsp. enterica serovar Kentucky strain 161365
+CP028994.1	4401005	4401385	-	Klebsiella pneumoniae strain AR_0079
+CP028994.1	4401387	4401926	-	Klebsiella pneumoniae strain AR_0079
+CP028994.1	4443838	4444761	AWE03162.1	Klebsiella pneumoniae strain AR_0079
+CP043509.1	1558351	1557428	QIG83460.1	Salmonella enterica subsp. enterica serovar Rissen strain GJ0703-2
+CP026235.1	2832900	2833823	AUV26694	Citrobacter freundii complex sp. CFNIH3
+CP009787.1	4144515	4143769	AJJ10102	Yersinia rohdei strain YRA
+AP018827.1	1941460	1941768	BBF81189	Asticcacaulis excentricus M6
+CP017581.1	2424082	2423168	ARF50005	Pantoea stewartii subsp. stewartii DC283
+CP020817.1	1994217	1993312	AUM03444	Enterobacter sp. Crenshaw
+CP034944.1	1494622	1493720	QCY20864	Morganella morganii subsp. morganii strain ATCC 25830
+CP009787.1	4144515	4143769	-	Yersinia rohdei strain YRA
+LT707061.1	2457781	2458623	SIR84802	Pseudomonas putida strain N1R
+CP034668.1	3062971	3063882	QHP78445	Proteus vulgaris strain PvSC3
+LR134189.1	2619115	2620005	VEB71640	Providencia rustigianii strain NCTC6933
+CP000319.1	2626194	2627024	ABE63152	Nitrobacter hamburgensis X14
+CP017306.1	1204963	1205775	ATH01725	Pseudomonas aeruginosa strain PA_150577
+CP028968.1	1299244	1300086	-	Aminobacter sp. MSH1
+CP027562.1	1692877	1693764	AVO29861	Stenotrophomonas maltophilia strain SJTH1
+CP049956.1	2360152	2361054	-	Stenotrophomonas maltophilia strain NCTC10498
+LR134516.1	1625031	1625849	VEJ21762	Neisseria animaloris strain NCTC12227
+CP022725.1	556390	555491	AXU94212	Erwinia persicina strain B64
+CP023472.1	2052390	2051530	-	Vibrio parahaemolyticus strain FORC_072 
+CP035694.1	1489338	1490186	-	Vibrio furnissii strain 2419-04 chromosome 2
+FO834906.1	1514125	1513232	CDO13226	Klebsiella pneumoniae str. Kp52.145
+CP001096.1	4396643	4397494	ACF02593	Rhodopseudomonas palustris TIE-1
+CP021342.1	30240	31106	KMV05611	Acinetobacter baumannii strain B8342
+CP040677.1	3690047	3689184	QHM96004	Kosakonia sacchari strain DSM 107661
+CP015876.1	3673556	3674386	ANI04190	Pseudomonas putida SJTE-1
+AP014856.1	2616414	2615578	BAT40337	Escherichia albertii strain CB9786
+LT629747.1	3041438	3042295	-	Pseudomonas chlororaphis strain LMG 21630
+LR134237.1	1366652	1367500	VED05900.1	Escherichia coli strain NCTC9022
+CP013046.2	3013726	3012890	ALL38451	Serratia marcescens strain B3R3
+CP020896.1	4050919	4051779	-	Rhizobium phaseoli Brasil 5
+CP034909.1	3159330	3160211	QFI67991	Ensifer alkalisoli strain YIC4027
+CP021109.1	2342470	2323336	ARP86651	Bordetella genomosp. 9 strain AU17164
+AP019798.1	987339	988163	BBL88215	Vibrio rotiferianus AM7
+CP035109.1	2308695	2309582	QHQ33556	Acinetobacter pittii strain NQ-003
+CP035090.1	802716	803615	QAR25513	Paracoccus denitrificans strain ATCC 19367 chromosome 1
+LR134298.1	1613267	1614148	VEE38070	Pasteurella multocida subsp. gallicida strain NCTC10204
+CP013527.1	2067658	2068497	-	Rhizobium phaseoli strain R723
+NZ_CAADJH010000002.1	1521881	1520985	WP_000026554.1	Escherichia coli strain NCTC10963
+CP024289.1	383737	382841	WP_000026554.1	Escherichia coli O178:H19 strain 2012C-4431
+CP042945.1	3919337	3918441	WP_000026554.1	Escherichia fergusonii strain ATCC 35471
+LS483392.1	1329713	1330618	SQG36565	Haemophilus influenzae strain NCTC11931
+AP010958.1	3183047	3182178	BAI31888.1	Escherichia coli O103:H2 12009
+CP007502.1	1285446	1286351	AHN72151	Aggregatibacter actinomycetemcomitans HK1651
+CP019628.1	3690609	3691427	AQQ01215	Pseudoalteromonas aliena strain EH1
+CP016044.1	2979875	2978982	AOP43928	Edwardsiella piscicida strain S11-285
+LO017727.1	4464629	4465522	CRH07822	Magneto-ovoid bacterium MO-1
+LR134234.1	4557005	4557922	VED23499.1	Escherichia coli strain NCTC8623
+CP016484.1	1418	2182	ANV92013	Synechococcus sp. PCC 8807 plasmid 1
+CP035731.1	356040	356873	-	Vibrio vulnificus strain 2142-77 chromosome 1
+AP018786.1	988832	989662	BBF22929	Sutterella megalosphaeroides
+FQ859181.1	1909769	1910659	CCB65235	Hyphomicrobium sp. MC1
+CP021894.1	1977979	1977122	ASN85195	Pectobacterium versatile strain SCC1
+CP013141.1	1712270	1712270	-	Lysobacter antibioticus strain ATCC 29479
+CP000076.1	4381392	4382312	-	Pseudomonas protegens Pf-5
+CP022390.1	448758	449693	-	Alcaligenes aquatilis strain BU33N
+AP018319.1	431160	431516	BBD63106	Nostoc sp. HK-01 plasmid 1
+AP018292.1	157817	158158	BAZ64887	Calothrix sp. NIES-4105 plasmid 2
+CP003286.1	56673	57032	AFW97237	Anabaena sp. 90 plasmid pANA01
+AP018315.1	504	860	BAZ83594	Sphaerospermopsis kisseleviana NIES-73 plasmid 1
+AP018309.1	126252	126650	BAZ78348	Aulosira laxa NIES-50 plasmid 2
+AP018292.1	296431	296823	BAZ65032	Calothrix sp. NIES-4105 plasmid 2
+CP017688.1	2969121	2969912	WP_066332363.1	Flavobacterium crassostreae LPB0076
+CP036514.1	440391	440041	QBJ31776	Hafnia alvei strain PCM_1220
+AP012273.1	1038779	1039207	-	Thiolapillus brandeum
+CP006267.1	916	1353	AGP50152	Psychrobacter sp. G plasmid PsyG_4
+AP014815.1	526244	526645	BAQ60059	Geminocystis sp. NIES-3708
