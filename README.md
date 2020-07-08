@@ -1,7 +1,9 @@
 # 2020_Owen-BstA
 
 ## About
-Code corresponing to the paper [Prophage-encoded abortive infection proteins that encode cognate self-immunity]()
+Code corresponing to the paper:
+
+[**Prophage-encoded abortive infection proteins that encode cognate self-immunity (Owen, *et. al.*, 2020**)]()
 
 ## Data
 - BstA homologs
