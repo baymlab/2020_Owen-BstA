@@ -1,5 +1,5 @@
-input_file: 'data/bsta_homologs/bsta_homologs.tsv'
-output_dir: 'data/bsta_homologs'
+input_file: 'data/pipeline/bsta_homologs.tsv'
+output_dir: 'data/pipeline/results'
 params:
- neighborhood: 20000
- download_fmt: 'fasta'
+ neighborhood: 2000
+hmm_models: 'data/pipeline/Pfam-BstA.hmm'
