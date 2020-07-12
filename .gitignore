@@ -6,6 +6,11 @@ __pycache__/
 # other
 .DS_Store
 .snakemake/
+data_og/
+scripts/__init__.py
+2020_Owen-BstA/
+data/pipeline/*.hmm
+data/pipeline/*.hmm.*
 
 # C extensions
 *.so
