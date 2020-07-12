@@ -10,7 +10,7 @@ Code corresponing to the paper:
   - [Sequences](https://github.com/baymlab/2020_Owen-BstA/blob/master/data/BstAhomologs/bsta_homologs.faa)
   - [Homologs metadata](https://github.com/baymlab/2020_Owen-BstA/blob/master/data/BstAhomologs/bsta_homologs.tsv)
   - [BstA profile-hmm](https://github.com/baymlab/2020_Owen-BstA/blob/master/data/BstAhomologs/bsta.hmm)
-- Processed results
+- Figures
   - [Figure 2.A: All annotations](https://github.com/baymlab/2020_Owen-BstA/blob/master/data/Figures/2A/annotation_counts.tsv)
   - [Figure 2.B: Annotation of genomic neighborhoods](https://github.com/baymlab/2020_Owen-BstA/tree/master/data/Figures/2B)
   - [Figure 2.C: BstA homologs alignment](https://github.com/baymlab/2020_Owen-BstA/blob/master/data/Figures/2C/bsta_alignment.afa)
