@@ -3,7 +3,7 @@
 ## About
 Code corresponing to the paper:
 
-[**Prophage-encoded abortive infection proteins that encode cognate self-immunity (Owen, *et. al.*, 2020**)](https://www.biorxiv.org/content/10.1101/2020.07.13.199331v1)
+[* Prophage-encoded phage defence proteins with cognate self-immunity (Owen, *et. al.*, 2020**)](https://www.biorxiv.org/content/10.1101/2020.07.13.199331v1)
 
 ## Data
 - BstA homologs
