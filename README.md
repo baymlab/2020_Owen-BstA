@@ -5,6 +5,7 @@ Code corresponing to the paper:
 
 [**Prophage-encoded phage defence proteins with cognate self-immunity (Owen, *et. al.*, 2020**)](https://www.biorxiv.org/content/10.1101/2020.07.13.199331v1)
 
+[doi: 10.1101/2020.07.13.199331](https://doi.org/10.1101/2020.07.13.199331)
 ## Data
 - BstA homologs
   - [Sequences](https://github.com/baymlab/2020_Owen-BstA/blob/master/data/BstAhomologs/bsta_homologs.faa)
